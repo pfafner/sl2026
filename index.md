@@ -15,7 +15,7 @@ Este es un curso introductorio al aprendizaje estadístico, con énfasis princip
 ### Horario
 <div id='id-horario'/>
 
-* Miércoles, de 19:50 a 21:25 horas, y viernes de 18:10 a 19:45.
+* Lunes y miércoles, de 19:50 a 21:25 horas.
 
 ### Office Hours
 <div id='id-office'/>
