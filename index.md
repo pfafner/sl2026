@@ -10,7 +10,7 @@ Este es un curso introductorio al aprendizaje estadístico, con énfasis princip
 # Programa del curso
 <div id='id-programa'/>
 
-[Programa del curso](programa/Programa-sl2025.pdf){:target="_blank"}
+[Programa del curso](programa/Programa-sl2026.pdf){:target="_blank"}
 
 ### Horario
 <div id='id-horario'/>
