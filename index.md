@@ -1,7 +1,7 @@
 # Aprendizaje Estadístico 2026
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2018%2F01%2F17%2F23%2F43%2Ftriangle-3089267__480.png&f=1&nofb=1&ipt=9ac2b334637c6cb34fcef1ab841c12b200d821cb1d12706ec0d9c2acf663bfb0
-" alt="Alt Text" height="100">
+" alt="Alt Text" height="90">
 *This site is under construction!!*
 
 Este es un curso introductorio al aprendizaje estadístico, con énfasis principalmente en los fundamentos matemáticos y estadísticos de los principales algoritmos de aprendizaje automático y reconocimiento de patrones. El tema central del curso es el estudio de métodos para obtener información útil a partir de datos. Abordamos temas principales como el aprendizaje supervisado y no supervisado, los modelos de regresión, y algunos tópicos recientes como el aprendizaje profundo. Al final del curso, los estudiantes comprederán los fundamentos de los algoritmos más populares del aprendizaje estadístico. Para aprovechar de mejor manera el curso, es recomendable que los estudiantes estén familiarizados con temas de álgebra lineal, cálculo, estadística matemática, y tener conocimientos de al menos un lenguaje de programación (*e.g.* Python, R, Matlab, C++, u otros).
