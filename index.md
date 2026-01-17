@@ -24,7 +24,7 @@ Este es un curso introductorio al aprendizaje estadístico, con énfasis princip
 
 **No.**  | **Fecha**    | **Tópicos**                                                 | **Recursos**
 -------- | ------------ | ----------------------------------------------------------- |  -------------------------------------
-01       | 16.01.2026   | Inicio del curso.                                           |   
+01       | 16.01.2026   | Inicio del curso. Repaso de probabilidad.                   |   
 
 
 # Proyectos
