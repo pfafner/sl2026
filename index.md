@@ -24,8 +24,8 @@ Este es un curso introductorio al aprendizaje estadístico, con énfasis princip
 
 **No.**  | **Fecha**    | **Tópicos**                                                 | **Recursos**
 -------- | ------------ | ----------------------------------------------------------- |  -------------------------------------
-01       | 16.01.2026   | Inicio del curso. Repaso de probabilidad.                   |   
-02       | 19.01.2026   |    |   
+01       | 16.01.2026   | Inicio del curso. Repaso de probabilidad. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} |   
+02       | 19.01.2026   | Probabilidad condicional. Ley de probabilidad total. Regla de Bayes. [Aula 02](aulas/Aula02.pdf){:target="_blank"} |    
 
 
 # Proyectos
