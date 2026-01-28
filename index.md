@@ -27,6 +27,7 @@ Este es un curso introductorio al aprendizaje estadístico, con énfasis princip
 01       | 16.01.2026   | Inicio del curso. Repaso de probabilidad. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} |   
 02       | 19.01.2026   | Probabilidad condicional. Ley de probabilidad total. Regla de Bayes. [Aula 02](aulas/Aula02.pdf){:target="_blank"} |    
 03       | 23.01.2026   | Variables aleatorias. Distribuciones. [Aula 03](aulas/Aula03.pdf){:target="_blank"}  |    
+04       | 26.01.2026   | Densidad y función de distribución. Generación de muestras aleatorias. |    
 
 
 # Proyectos
