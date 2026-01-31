@@ -28,7 +28,7 @@ Este es un curso introductorio al aprendizaje estadístico, con énfasis princip
 02       | 19.01.2026   | Probabilidad condicional. Ley de probabilidad total. Regla de Bayes. [Aula 02](aulas/Aula02.pdf){:target="_blank"} |    
 03       | 23.01.2026   | Variables aleatorias. Distribuciones. [Aula 03](aulas/Aula03.pdf){:target="_blank"}  |    
 04       | 26.01.2026   | Densidad y función de distribución. Generación de muestras aleatorias. | [rvs.ipynb](code/rvs.ipynb){:target="_blank"}    
-05       | 30.01.2026   | Función de cuantiles. Contraste entre distribuciones. PP-plots, QQ-plots, KS. | 
+05       | 30.01.2026   | Función de cuantiles. Contraste entre distribuciones. PP-plots, QQ-plots, KS. | [qqplots.ipynb](code/qqplots.ipynb){:target="_blank"} <br/> [fitting.ipynb](code/fitting.ipynb){:target="_blank"}
 
 
 # Proyectos
