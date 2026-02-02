@@ -29,6 +29,8 @@ Este es un curso introductorio al aprendizaje estadístico, con énfasis princip
 03       | 23.01.2026   | Variables aleatorias. Distribuciones. [Aula 03](aulas/Aula03.pdf){:target="_blank"}  |    
 04       | 26.01.2026   | Densidad y función de distribución. Generación de muestras aleatorias. | [rvs.ipynb](code/rvs.ipynb){:target="_blank"}    
 05       | 30.01.2026   | Función de cuantiles. Contraste entre distribuciones. PP-plots, QQ-plots, KS. | [qqplots.ipynb](code/qqplots.ipynb){:target="_blank"} <br/> [fitting.ipynb](code/fitting.ipynb){:target="_blank"}
+06       | 02.02.2026   | Estadísticos. Correlación entre variables. Entropía. Información mutua. Divergencia KL. | 
+L1       | 02.02.2026   | Lista 01 | [Lista 01](listas/Lista01.pdf){:target="_blank"} [areas.csv](listas/areas.csv){:target="_blank"} <br/> **Entrega: lunes 16 de febrero**
 
 
 # Proyectos
