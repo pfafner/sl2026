@@ -32,7 +32,7 @@ Este es un curso introductorio al aprendizaje estadístico, con énfasis princip
 06       | 02.02.2026   | Estadísticos de localización y de dispersión. Correlación entre variables. |  
 L1       | 02.02.2026   | Lista 01 | [Lista 01](listas/Lista01.pdf){:target="_blank"} [areas.csv](listas/areas.csv){:target="_blank"} <br/> **Entrega: lunes 16 de febrero**
 07       | 06.02.2026   | Entropía. Información mutua. Divergencia KL. Normal multivariada. | 
-08       |              |   
+08       | 09.02.2026   | Análisis de componentes principales (PCA). Interpretación del PCA. |     
 
 
 # Proyectos
