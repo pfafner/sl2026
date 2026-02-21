@@ -35,7 +35,7 @@ L1       | 02.02.2026   | Lista 01 | [Lista 01](listas/Lista01.pdf){:target="_bl
 08       | 09.02.2026   | Análisis de componentes principales (PCA). Interpretación del PCA. |  
 09       | 13.02.2026   | Escalamiento multidimensional.  | 
 10       | 16.02.2026   | PCA Robusto. Método del elipsoide mínimo.  | 
-
+11       | 20.02.2026   | Kernel PCA. Análisis de componentes independientes (ICA).  | 
 
 
 # Proyectos
