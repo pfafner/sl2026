@@ -36,8 +36,8 @@ L1       | 02.02.2026   | Lista 01 | [Lista 01](listas/Lista01.pdf){:target="_bl
 09       | 13.02.2026   | Escalamiento multidimensional.  | 
 10       | 16.02.2026   | PCA Robusto. Método del elipsoide mínimo.  | 
 11       | 20.02.2026   | Kernel PCA. Análisis de componentes independientes (ICA).  | 
-11       | 24.02.2025   | Factoración No-Negativa de Matrices (NNMF). Sistemas de recomendación.  | [movies.csv](listas/movies.csv){:target="_blank"} [ratings.csv](listas/ratings.csv){:target="_blank"} <br/> [recommender.ipynb](code/recommender.ipynb){:target="_blank"} 
-L2       | 24.02.2025   | Lista 2. | [Lista 02](listas/Lista02.pdf){:target="_blank"} [weather.csv](listas/weather.csv){:target="_blank"} [crimes.dat](listas/crimes.dat){:target="_blank"} <br/> **Entrega: lunes 09 de marzo.**
+11       | 24.02.2026   | Factoración No-Negativa de Matrices (NNMF). Sistemas de recomendación.  | [movies.csv](listas/movies.csv){:target="_blank"} [ratings.csv](listas/ratings.csv){:target="_blank"} <br/> [recommender.ipynb](code/recommender.ipynb){:target="_blank"} 
+L2       | 24.02.2026   | Lista 02 | [Lista 02](listas/Lista02.pdf){:target="_blank"} [weather.csv](listas/weather.csv){:target="_blank"} [crimes.dat](listas/crimes.dat){:target="_blank"} <br/> **Entrega: lunes 09 de marzo.**
 
 
 # Proyectos
