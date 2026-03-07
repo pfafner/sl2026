@@ -39,7 +39,7 @@ L1       | 02.02.2026   | Lista 01 | [Lista 01](listas/Lista01.pdf){:target="_bl
 12       | 23.02.2026   | Factoración No-Negativa de Matrices (NNMF). Sistemas de recomendación.  | [movies.csv](listas/movies.csv){:target="_blank"} [ratings.csv](listas/ratings.csv){:target="_blank"} <br/> [recommender.ipynb](code/recommender.ipynb){:target="_blank"} 
 L2       | 23.02.2026   | Lista 02 | [Lista 02](listas/Lista02.pdf){:target="_blank"} [weather.csv](listas/weather.csv){:target="_blank"} [crimes.dat](listas/crimes.dat){:target="_blank"} <br/> **Entrega: lunes 09 de marzo.** 
 13       | 27.02.2026   | Manifold Learning I: Isomap, SNE, t-SNE.  |  
-14       | 02.03.2026   | Manifold Learning II:   |  
+14       | 02.03.2026   | Manifold Learning II:  UMap, LLE, SOM.  |  
 
 
 
