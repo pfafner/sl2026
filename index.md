@@ -46,7 +46,16 @@ L2       | 23.02.2026   | Lista 02 | [Lista 02](listas/Lista02.pdf){:target="_bl
 # Proyectos
 <div id='id-prj1'/>
 
-En el curso se elaborarán dos proyectos, los cuales se indicarán más adelante.
+En el curso se elaborarán dos proyectos, los cuales se describen a continuación.
+
+## Primer Proyecto (Ecobici)
+<div id='id-proj1'/>
+
+**No.**  | **Fecha**    | **Tópicos**                                                         
+-------- | ------------ | ------------------------------------------------------------------- 
+P1       | 13.03.2025   | [Proyecto 1](proyectos/Proyecto1.pdf){:target="_blank"}  
+.        | 17.04.2025   | Presentaciones 
+.        | 19.04.2025   | Entrega del reporte, código y presentación 
 
 
 # Referencias
