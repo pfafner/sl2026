@@ -40,7 +40,9 @@ L1       | 02.02.2026   | Lista 01 | [Lista 01](listas/Lista01.pdf){:target="_bl
 L2       | 23.02.2026   | Lista 02 | [Lista 02](listas/Lista02.pdf){:target="_blank"} [weather.csv](listas/weather.csv){:target="_blank"} [crimes.dat](listas/crimes.dat){:target="_blank"} <br/> **Entrega: lunes 09 de marzo.** 
 13       | 27.02.2026   | Manifold Learning I: Isomap, SNE, t-SNE.  |  
 14       | 02.03.2026   | Manifold Learning II:  UMap, LLE, SOM.  |  
-
+15       | 09.03.2026   | Kernels. Estimación de densidades por kernel (KDE). Elección de bins y bandwidth en histogramas. |  
+L3       | 09.03.2025   | Lista 3. **Fecha de Entrega: 27 de marzo.**   | [Lista 3](listas/Lista03.pdf){:target="_blank"} [wines.csv](listas/wines.csv){:target="_blank"} [hpi-data-2016.xlsx](listas/hpi-data-2016.xlsx){:target="_blank"} 
+16       | 13.03.2026   | *Clustering*. Agrupamiento jerárquico. |  
 
 
 # Proyectos
