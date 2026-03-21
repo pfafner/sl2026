@@ -43,7 +43,8 @@ L2       | 23.02.2026   | Lista 02 | [Lista 02](listas/Lista02.pdf){:target="_bl
 15       | 09.03.2026   | Kernels. Estimación de densidades por kernel (KDE). Elección de bins y bandwidth en histogramas. |  
 L3       | 09.03.2025   | Lista 3. **Fecha de Entrega: 27 de marzo.**   | [Lista 3](listas/Lista03.pdf){:target="_blank"} [wines.csv](listas/wines.csv){:target="_blank"} [hpi-data-2016.xlsx](listas/hpi-data-2016.xlsx){:target="_blank"} 
 16       | 13.03.2026   | *Clustering*. Agrupamiento jerárquico. |  
-17       | 16.03.2026   | Elección de métodos. Ejemplos de agrupamiento jerárquico. |  
+17       | 16.03.2026   | Elección de métodos. Ejemplos de agrupamiento jerárquico. | 
+18       | 20.03.2026   | K-means y variantes. Fuzzy K-means.   | 
 
 
 
