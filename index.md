@@ -45,7 +45,7 @@ L3       | 09.03.2025   | Lista 3. **Fecha de Entrega: 27 de marzo.**   | [Lista
 16       | 13.03.2026   | *Clustering*. Agrupamiento jerárquico. |  
 17       | 16.03.2026   | Elección de métodos. Ejemplos de agrupamiento jerárquico. | 
 18       | 20.03.2026   | K-means y variantes. Fuzzy K-means.   | 
-19       |              |  |  
+19       | 23.03.2026   | Comentarios sobre clasificadores suaves. Mean-Shift. |  
 
 
 # Proyectos
