@@ -47,7 +47,7 @@ L3       | 09.03.2025   | Lista 3. **Fecha de Entrega: 27 de marzo.**   | [Lista
 18       | 20.03.2026   | K-means y variantes. Fuzzy K-means.   | 
 19       | 23.03.2026   | Comentarios sobre clasificadores suaves. Mean-Shift. |  
 20       | 27.03.2026   | Clustering basado en densidad. DBSCAN, OPTICS, Birch. | 
-21       |              |   |   
+21       | 06.04.2026   |   |   
 
 
 # Proyectos
