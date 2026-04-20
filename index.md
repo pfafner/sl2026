@@ -49,6 +49,8 @@ L3       | 09.03.2025   | Lista 3. **Fecha de Entrega: 27 de marzo.**   | [Lista
 20       | 27.03.2026   | Clustering basado en densidad: DBSCAN, OPTICS, Birch. | 
 21       | 06.04.2026   | Verosimilitud, log-verosimilitud. Función de score, información de Fisher.  |   
 22       | 10.04.2026   | Gaussian Mixture Models (GMM).  |   
+23       | 17.04.2026   | Métricas para agrupamiento.  |   
+24       | 19.04.2026   | Presentaciones del primer proyecto.  |   
 
 
 # Proyectos
